@@ -51,7 +51,7 @@
                                         data-error="Subject field is required" required>
                                     <div class="help-block with-errors"></div>
                                 </div>
-                                
+
                                 <div class="col-12 form-group">
                                     <textarea placeholder="Message*" class="textarea form-control" name="message"
                                         id="form-message" rows="7" cols="20" data-error="Message field is required"
@@ -82,5 +82,5 @@
         </div>
     </section>
     <!-- Contact Us Area End Here -->
-    
+
 @endsection

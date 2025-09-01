@@ -9,6 +9,7 @@
         .chat-bot {
             overflow: hidden;
             position: fixed;
+            cursor: pointer;
             height: 65px;
             width: 65px;
             line-height: 60px;
@@ -37,7 +38,6 @@
             box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
             transform: translateY(-2px);
         }
-
         .chat-bot img {
             width: 65px;
             height: 65px;
@@ -46,14 +46,12 @@
             transition: all 0.5s ease;
             border-radius: 50%;
         }
-
         .chat-bot:hover img {
             width: 80px;
             height: 80px;
             object-fit: cover;
             justify-self: center;
         }
-
         /* Modal Styles */
         .modalChat {
             display: none;
@@ -67,7 +65,6 @@
             background-color: transparent;
             box-sizing: border-box;
         }
-
         .modalChat-content {
             background-color: #ffffff;
             border-radius: 12px;
@@ -81,7 +78,6 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             animation: slideIn 0.3s ease-out;
         }
-
         @keyframes slideIn {
             from {
                 transform: translateX(-20px); /* Slide in from left */
@@ -92,7 +88,6 @@
                 opacity: 1;
             }
         }
-
         .modalChat-header {
             padding: 12px 20px;
             background: linear-gradient(135deg, #002855, #2157b4);
@@ -105,18 +100,15 @@
             border-top-left-radius: 12px;
             border-top-right-radius: 12px;
         }
-
         .modalChat-header .close {
             font-size: 30px;
             cursor: pointer;
             color: white;
             transition: color 0.2s ease;
         }
-
         .modalChat-header .close:hover {
             color: black;
         }
-
         .modalChat-body {
             flex: 1;
             padding: 15px;
@@ -125,16 +117,13 @@
             scrollbar-width: thin;
             scrollbar-color: #d1d5db transparent;
         }
-
         .modalChat-body::-webkit-scrollbar {
             width: 6px;
         }
-
         .modalChat-body::-webkit-scrollbar-thumb {
             background-color: #d1d5db;
             border-radius: 3px;
         }
-
         .modalChat-footer {
             padding: 12px 15px;
             border-top: 1px solid #e5e7eb;
@@ -143,7 +132,6 @@
             gap: 8px;
             align-items: center;
         }
-
         .modalChat-footer input {
             flex: 1;
             padding: 10px;
@@ -153,12 +141,10 @@
             outline: none;
             transition: border-color 0.2s ease, box-shadow 0.2s ease;
         }
-
         .modalChat-footer input:focus {
             border-color: #3b82f6;
             box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
         }
-
         .modalChat-footer button {
             padding: 10px 18px;
             background: linear-gradient(135deg, #1e3a8a, #3b82f6);
@@ -170,11 +156,9 @@
             cursor: pointer;
             transition: background 0.2s ease;
         }
-
         .modalChat-footer button:hover {
             background: linear-gradient(135deg, #002855, #2563eb);
         }
-
         .chat-message {
             margin: 8px 0;
             padding: 10px 14px;
@@ -184,7 +168,6 @@
             font-size: 14px;
             position: relative;
         }
-
         .user-message {
             background: linear-gradient(135deg, #002855, #2157b4);
             color: white;
@@ -192,7 +175,6 @@
             margin-right: 10px;
             border-bottom-right-radius: 2px;
         }
-
         .bot-message {
             background-color: #e5e7eb;
             color: #1f2937;
@@ -200,7 +182,6 @@
             margin-left: 10px;
             border-bottom-left-radius: 2px;
         }
-
         .chat-message::before {
             content: '';
             position: absolute;
@@ -208,14 +189,12 @@
             height: 0;
             top: 8px;
         }
-
         .user-message::before {
             right: -6px;
             border-left: 6px solid #002855;
             border-top: 6px solid transparent;
             border-bottom: 6px solid transparent;
         }
-
         .bot-message::before {
             left: -6px;
             border-right: 6px solid #e5e7eb;
@@ -230,7 +209,7 @@
 </head>
 <body>
 <div id="wrapper" class="wrapper">
-    <a href="#" class="chat-bot" onclick="openModal()">
+    <a class="chat-bot" onclick="openModal()">
         <img src="{{asset('frontend/img/chatbot3.png')}}" alt="Chatbot">
     </a>
 </div>

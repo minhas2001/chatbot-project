@@ -2,7 +2,7 @@
   <div class="slider-area slider-layout1 bg-light-primary slider-top-margin" id="home">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-1" class="slides">
-            <img style="height: 300px; width: 100%" src="{{ asset('frontend/img/banner33.jpg') }}" alt="slider" title="#slider-direction-1" />
+            <img src="{{ asset('frontend/img/banner33.jpg') }}" alt="slider" title="#slider-direction-1" />
             <img src="{{ asset('frontend/img/slider/slide1-2.jpg') }}" alt="slider" title="#slider-direction-1" />
             <img src="{{ asset('frontend/img/slider/slide1-3.jpg') }}" alt="slider" title="#slider-direction-3" />
 

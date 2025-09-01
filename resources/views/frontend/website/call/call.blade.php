@@ -10,10 +10,10 @@
                     <h2 class="item-title">We Provide the highest level of satisfaction care &amp; services to
                         our patients.</h2>
                     <div class="call-to-action-phone">
-                        <a href="tel:+92168537631"><i class="fas fa-phone"></i>+9231 68537 631</a>
+                        <a href="tel:+92168537631"><i class="fas fa-phone"></i>+34632347630</a>
                     </div>
                     <div class="call-to-action-btn">
-                        <a href="{{ route('contact') }}" class="item-btn">Contact us</a>
+                        <a href="https://CareWavehealth@gmail.com" class="fa fa-inbox ">CareWavehealth@gmail.com</a>
                     </div>
                 </div>
             </div>
