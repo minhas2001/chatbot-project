@@ -16,9 +16,8 @@
                 <div class="col-lg-2 col-md-2  d-flex align-content-center">
                     <div class="header-left row ">
                         <a href="#" class="logo " >
-                            <img src="{{asset('frontend/img/logo-dark.png')}}" width="45" height="45" alt="logo">
+                            <img src="{{asset('frontend/img/new logo web.png')}}" alt="logo" style="height: 70px; width: 100%">
                         </a>
-                        <h4 class="header-heading" style="margin-top: 15%; margin-left: 10px; color: white">My Clinic</h4>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 possition-static">

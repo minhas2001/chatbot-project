@@ -57,21 +57,22 @@
                     <div class="footer-box">
                         <div class="footer-logo">
                             <a href="#">
-                                <img src="{{asset('frontend/img/logo-dark.png')}}" alt="footer-logo" style="width: 60px; height: 60px">
+                                <img src="{{asset('frontend/img/new logo web.png')}}" alt="footer-logo"
+                                     style=" height: 70px">
                             </a>
-                            <h3 class="footer-heading mb-0">My Clinic</h3>
                         </div>
                         <div class="footer-about">
                             <p>
-                                Our clinic is a modern healthcare facility dedicated to providing quality
-                                medical services with a focus on patient care, convenience, and efficiency.
+                                "Your wellness matters to us."
                             </p>
                         </div>
                         <div class="footer-contact-info">
                             <ul>
                                 <li><i class="fas fa-map-marker-alt"></i>Danyore Main Chowk Gilgit</li>
-                                <li><i class="fas fa-phone"></i>+9231 68537 631</li>
-                                <li><i class="far fa-envelope"></i>info@myclinic.com</li>
+                                <li><i class="fas fa-phone"></i>
+                                    +34632347630
+                                </li>
+                                <li><i class="far fa-envelope"></i>CareWavehealth@gmail.com</li>
                             </ul>
                         </div>
                     </div>
@@ -86,11 +87,11 @@
                         <div class="footer-departments">
                             <ul>
 
-                                    <li><a href="#department">Medicine</a></li>
-                                    <li><a href="#department">Orthopedic</a></li>
-                                    <li><a href="#department">Emergency</a></li>
-                                    <li><a href="#doctor">Skilled Doctors</a></li>
-                                    <li><a href="#department">Certified Clinic</a></li>
+                                <li><a href="#department">Medicine</a></li>
+                                <li><a href="#department">Orthopedic</a></li>
+                                <li><a href="#department">Emergency</a></li>
+                                <li><a href="#doctor">Skilled Doctors</a></li>
+
 
                             </ul>
                         </div>
@@ -108,8 +109,6 @@
                                 <li><a href="#about">About Us</a></li>
                                 <li><a href="#">What We Do</a></li>
                                 <li><a href="faq.html">Faq’s</a></li>
-                                <li><a href="#doctor">Appointment</a></li>
-                                <li><a href="{{route('contact')}}">Contact</a></li>
                                 <li><a href="#">24/7 Support</a></li>
                             </ul>
                         </div>

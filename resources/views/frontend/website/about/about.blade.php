@@ -13,8 +13,7 @@
             </div>
             <div class="col-6 align-self-center">
                 <div class="item-content">
-                    <h2 class="item-title animate__animated" data-animate="animate__fadeInDown">Welcome To My
-                        Clinic</h2>
+                    <h2 class="item-title animate__animated" data-animate="animate__fadeInDown">Welcome To CareWave Health</h2>
                     <div class="sub-title animate__animated" data-animate="animate__fadeInUp">Your wellness matters to
                         us. Our skilled team uses the latest technology to deliver personalized care, ensuring you live
                         a healthier life.
