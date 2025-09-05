@@ -12,8 +12,8 @@
                     <div class="call-to-action-phone">
                         <a href="tel:+92168537631"><i class="fas fa-phone"></i>+34632347630</a>
                     </div>
-                    <div class="call-to-action-btn">
-                        <a href="https://CareWavehealth@gmail.com" class="fa fa-inbox ">CareWavehealth@gmail.com</a>
+                    <div class="call-to-action-phone" >
+                        <a href="https://CareWavehealth@gmail.com" style="color: blue; font-size: 24px"> <i class="fas fa-inbox"></i>contact@carewavehealth.com</a>
                     </div>
                 </div>
             </div>

@@ -72,7 +72,7 @@
                                 <li><i class="fas fa-phone"></i>
                                     +34632347630
                                 </li>
-                                <li><i class="far fa-envelope"></i>CareWavehealth@gmail.com</li>
+                                <li> <a href="https://contact@carewavehealth.com "><i class="far fa-envelope"></i>contact@carewavehealth.com </a></li>
                             </ul>
                         </div>
                     </div>

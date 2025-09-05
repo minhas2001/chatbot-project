@@ -13,16 +13,22 @@
             </div>
             <div class="col-6 align-self-center">
                 <div class="item-content">
-                    <h2 class="item-title animate__animated" data-animate="animate__fadeInDown">Welcome To CareWave Health</h2>
-                    <div class="sub-title animate__animated" data-animate="animate__fadeInUp">Your wellness matters to
-                        us. Our skilled team uses the latest technology to deliver personalized care, ensuring you live
-                        a healthier life.
+                    <h2 class="item-title animate__animated" data-animate="animate__fadeInDown">Welcome To CareWave
+                        Health</h2>
+                    <div class="sub-title animate__animated" data-animate="animate__fadeInUp">At CareWave Health we are
+                        committed to transforming the way patients, clinics, and hospitals connect. Our virtual medical
+                        assistant combines artificial intelligence with clinical workflows to deliver faster, more
+                        efficient, and more accessible care.
+
                     </div>
-                    <p class="animate__animated" data-animate="animate__fadeIn">We’ve been caring for your health with
-                        kindness and expertise for years. Our modern hospital provides top-quality medical care to keep
-                        you and your family healthy. From check-ups to advanced treatments, our friendly team is here to
-                        support you every step of the way. Trust My Clinic to deliver the care you deserve in a warm,
-                        welcoming environment.</p>
+                    <p class="animate__animated" data-animate="animate__fadeIn">With CareWave, patients receive instant guidance, are
+                        classified according to urgency through digital triage validated by physicians, can schedule
+                        appointments automatically without calls or delays, and track the progress of their health in
+                        chronic conditions such as diabetes, hypertension, or asthma. For clinics and hospitals,
+                        CareWave represents a significant reduction in administrative burden, better resource
+                        management, and a secure solution fully compliant with GDPR and international regulations. Our
+                        mission is simple: to make life easier for healthcare professionals and patients, to reduce
+                        system overload, and to contribute to a more human and efficient healthcare experience.</p>
                     <img src="{{ asset('frontend/img/about/sign1.png') }}" alt="sign"
                          class="img-fluid animate__animated" data-animate="animate__pulse">
                 </div>

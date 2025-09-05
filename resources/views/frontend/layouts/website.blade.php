@@ -12,7 +12,7 @@
     @include('frontend.website.team.team')
 {{--    @include('frontend.website.schedule.schedule')--}}
     @include('frontend.website.banner.banner')
-    @include('frontend.website.blog.blog')
+{{--    @include('frontend.website.blog.blog')--}}
     @include('frontend.website.call.call')
     @include('frontend.components.footer')
 
