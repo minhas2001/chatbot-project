@@ -88,9 +88,9 @@
                             <ul>
 
                                 <li><a href="#department">Medicine</a></li>
-                                <li><a href="#department">Orthopedic</a></li>
-                                <li><a href="#department">Emergency</a></li>
-                                <li><a href="#doctor">Skilled Doctors</a></li>
+                                <li><a href="#department">cardiology</a></li>
+                                <li><a href="#department">Endocrinology</a></li>
+                                <li><a href="#department">Pulmonology</a></li>
 
 
                             </ul>
@@ -109,7 +109,6 @@
                                 <li><a href="#about">About Us</a></li>
                                 <li><a href="#">What We Do</a></li>
                                 <li><a href="faq.html">Faq’s</a></li>
-                                <li><a href="#">24/7 Support</a></li>
                             </ul>
                         </div>
                     </div>
@@ -123,11 +122,8 @@
                         </div>
                         <div class="footer-opening-hours">
                             <ul>
-                                <li>Mon - Tue: 9.00 - 17.00</li>
-                                <li>Wed - Thur: 9.00 - 16.00</li>
-                                <li>Fri - Sat: 9.00 - 12.00</li>
-                                <li>Saturday: 9.00 - 14.00</li>
-                                <li>Sunday:<span> Closed</span></li>
+                                <li>24/7 Service</li>
+
                             </ul>
                         </div>
                     </div>
@@ -167,7 +163,7 @@
     <!-- Footer Bottom -->
     <section class="footer-bottom-wrap">
         <div class="copyright">
-            Copyright @ 2018 myclinic. All Rights Reserved.
+            Copyright @ 2018 CareWaveHealth. All Rights Reserved.
             <a target="_blank" href="https://www.sata.pk/" rel="nofollow"> sata.pk </a>
         </div>
     </section>

@@ -1,4 +1,5 @@
- <!-- Call to Action Area Start Here -->
+
+<!-- Call to Action Area Start Here -->
  <section class="call-to-action-wrap-layout4" id="call">
     <div class="item-img">
         <img src="{{ asset('frontend/img/figure/figure7.png') }}" alt="figure" class="img-fluid">
@@ -13,7 +14,7 @@
                         <a href="tel:+92168537631"><i class="fas fa-phone"></i>+34632347630</a>
                     </div>
                     <div class="call-to-action-phone" >
-                        <a href="https://CareWavehealth@gmail.com" style="color: blue; font-size: 24px"> <i class="fas fa-inbox"></i>contact@carewavehealth.com</a>
+                        <a href="https://CareWavehealth@gmail.com" style="color: blue; font-size: 22px"><i class="far fa-envelope"></i>contact@carewavehealth.com</a>
                     </div>
                 </div>
             </div>

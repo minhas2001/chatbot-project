@@ -10,7 +10,6 @@
     @include('frontend.website.feature.feature')
     @include('frontend.website.brand.brand')
     @include('frontend.website.team.team')
-{{--    @include('frontend.website.schedule.schedule')--}}
     @include('frontend.website.banner.banner')
 {{--    @include('frontend.website.blog.blog')--}}
     @include('frontend.website.call.call')

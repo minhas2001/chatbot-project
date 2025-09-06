@@ -33,7 +33,7 @@
 </style>
 
 <!-- Team Area Start Here -->
-<section class="team-wrap-layout1 bg-light-secondary100" id="doctor">
+<section class="team-wrap-layout1 bg-light-secondary100" id="team">
     <div class="container">
         <div class="section-heading heading-dark text-left heading-layout1">
             <h2>Our founding team
@@ -74,8 +74,8 @@
                     <ul class="team-designation">
                         <li> Strategic vision </li>
                         <li> International expansion</li>
-                        <li> Partnerships with clinics</li>
-                        <li> Hospitals</li>
+                        <li> Partnerships with clinics / Hospitals</li>
+
                     </ul>
 
                 </div>

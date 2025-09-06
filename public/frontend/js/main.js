@@ -58,7 +58,7 @@
     }).on("click", ".quantity-minus", function () {
         var a = e(this).parents(".quantity-holder").find("input.quantity-input"), t = parseInt(a.val(), 10);
         e.isNumeric(t) && t >= 2 ? (t -= 1, a.val(t)) : a.val(1)
-    }), e("nav#dropdown").meanmenu({siteLogo: "<div class='mobile-menu-nav-back'><a class='logo-mobile' href='index.html'><img src='img/logo-mobile.png' alt='logo' class='img-fluid'/></a></div>"}), e(".ex1").length && e(".ex1").zoom(), void 0 !== e.fn.knob && e(".knob.knob-nopercent").each(function () {
+    }), e("nav#dropdown").meanmenu({siteLogo: "<div class='mobile-menu-nav-back'><a class='logo-mobile' href='#'><img src='frontend/img/logo-mobile.png' alt='logo' class='img-fluid' style='height: 40px'/></a></div>"}), e(".ex1").length && e(".ex1").zoom(), void 0 !== e.fn.knob && e(".knob.knob-nopercent").each(function () {
         var a = e(this), t = a.attr("data-rel");
         a.knob({
             draw: function () {

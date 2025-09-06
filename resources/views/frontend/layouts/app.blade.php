@@ -3,13 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SHCMS | GB </title>
+    <title>CareWaveHealth </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="icon" href="{{asset('frontend/img/logo.web.png')}}" type="image/x-icon" style="height: 80px">
+
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('backend/img/logo.png') }}">
-
 
     <!-- Normalize CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/css/normalize.css') }}">
@@ -37,12 +38,9 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/elements.css') }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/style.css') }}">
-
-
+    
 </head>
-
 <body>
-
     @yield('website')
     <!-- Modernizr JS -->
     <script src="{{ asset('frontend/js/modernizr-3.5.0.min.js') }}"></script>
@@ -78,8 +76,6 @@
     <script src="{{ asset('frontend/js/smoothscroll.min.js') }}"></script>
     <!-- Custom JS -->
     <script src="{{ asset('frontend/js/main.js') }}"></script>
-
-
 
 </body>
 </html>

@@ -2,7 +2,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
 
 <!-- About Area Start Here -->
-<section class="about-wrap-layout1" id="about" data-bg-image="{{ asset('frontend/img/figure/figure7.jpg') }}">
+<section class="about-wrap-layout1" id="about" data-bg-image="#">
     <div class="container">
         <div class="row">
             <div class="col-6">

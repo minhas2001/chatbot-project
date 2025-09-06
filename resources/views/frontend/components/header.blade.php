@@ -37,7 +37,7 @@
 
                                 </li>
                                 <li>
-                                    <a href="#doctor">Doctors</a>
+                                    <a href="#team">Team</a>
 
                                 </li>
 

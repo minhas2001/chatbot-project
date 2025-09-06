@@ -57,7 +57,7 @@
             display: none;
             position: fixed;
             z-index: 10000;
-            left: 75%; /* Positioned on the left side */
+            left: 70%; /* Positioned on the left side */
             bottom: 150px; /* Above the chatbot button */
             width: 360px;
             max-width: 90%;
@@ -204,6 +204,77 @@
         .modalChat-header h3{
             color: white;
             font-weight: 500;
+        }
+
+        @media (max-width: 1024px) {
+            .modalChat {
+                left: auto;
+                right: 20px; /* move closer on tablets */
+                bottom: 120px;
+                width: 320px;
+            }
+            .modalChat-content {
+                height: 420px;
+            }
+            .chat-bot {
+                right: 20px;
+                bottom: 50px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .modalChat {
+                left: 60%;
+                transform: translateX(-50%); /* center on small screens */
+                bottom: 100px;
+                width: 60%;
+            }
+            .modalChat-content {
+                height: 400px;
+            }
+            .chat-bot {
+                right: 20px;
+                bottom: 40px;
+                width: 60px;
+                height: 60px;
+            }
+            .chat-bot img {
+                width: 60px;
+                height: 60px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .modalChat {
+                left: 50%;
+                transform: translateX(-50%);
+                bottom: 80px;
+                width: 95%;
+            }
+            .modalChat-content {
+                height: 380px;
+                font-size: 13px;
+            }
+            .modalChat-header {
+                font-size: 16px;
+            }
+            .chat-bot {
+                right: 15px;
+                bottom: 30px;
+                width: 55px;
+                height: 55px;
+            }
+            .chat-bot img {
+                width: 55px;
+                height: 55px;
+            }
+            .modalChat-footer input {
+                font-size: 13px;
+            }
+            .modalChat-footer button {
+                padding: 8px 14px;
+                font-size: 13px;
+            }
         }
     </style>
 </head>

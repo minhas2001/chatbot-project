@@ -68,10 +68,7 @@ h1 {
   font-size: 48px;
 }
 
-.brand-wrap-layout1{
-    height: 250px;
-    align-content: center;
-}
+
 @media only screen and (max-width: 1199px) {
   h1 {
     font-size: calc(44px);
@@ -1686,7 +1683,7 @@ ul {
 }
 .mean-container .mean-bar a.logo-mobile-menu {
   width: 100%;
-  background-color: rgba(222, 222, 222, 0.95);
+  background-color: whitesmoke;
   box-sizing: border-box;
 }
 .mean-container .mean-bar .mobile-menu-nav-back {
@@ -1710,8 +1707,8 @@ ul {
   content: "";
   height: 100%;
   width: 100%;
-  background-color: rgba(248, 248, 248, 0.95);
-  z-index: -1;
+  background-color: whitesmoke;
+  z-index: -5;
   top: 0;
   left: 0;
   right: 0;
@@ -1732,7 +1729,7 @@ ul {
   font-size: 14px;
   color: #111111;
   font-weight: 700;
-  background-color: #ebebeb;
+  background-color: whitesmoke;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -ms-transition: all 0.5s ease-out;
@@ -9131,6 +9128,7 @@ div ~ :last-child .call-to-action-box-layout5 {
 }
 .features-box-layout1 .item-inner-wrapper {
   width: 50%;
+
 }
 @media only screen and (max-width: 991px) {
   .features-box-layout1 .item-inner-wrapper {
@@ -10352,12 +10350,12 @@ div ~ :last-child .call-to-action-box-layout5 {
 [27] Footer Top Area Style
 =========================================================================*/
 .footer-top-wrap {
-  background-color: #1f1f1f;
-  padding: 90px 0px 38px;
+  background-color: #002855;
+  padding: 50px 0px 25px;
   border-bottom: 1px solid #333333;
 }
 .footer-box {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .footer-box .footer-about {
@@ -10421,7 +10419,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   transition: all 0.3s ease-out;
 }
 .footer-box .footer-social li a:hover {
-  color: #002855;
+  color: silver;
 }
 .footer-box .footer-header {
   position: relative;
@@ -10430,7 +10428,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   content: "";
   width: 50px;
   height: 4px;
-  background-color: #002855;
+  background-color: silver;
   bottom: 0;
   left: 0;
   position: absolute;
@@ -10480,7 +10478,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   }
 }
 .footer-box .footer-latest-post li a:hover {
-  color: #002855;
+  color: silver;
 }
 .footer-box .footer-latest-post li span {
   font-size: 16px;
@@ -10508,7 +10506,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   }
 }
 .footer-box .footer-departments li a:hover {
-  color: #002855;
+  color: silver;
 }
 .footer-box .footer-quick-link li {
   margin-bottom: 10px;
@@ -10531,7 +10529,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   }
 }
 .footer-box .footer-quick-link li a:hover {
-  color: #002855;
+  color: silver;
 }
 .footer-box .footer-opening-hours li {
   font-size: 17px;
@@ -10551,7 +10549,7 @@ div ~ :last-child .call-to-action-box-layout5 {
 }
 .footer-center-wrap {
   padding: 30px 0;
-  background-color: #2a2a2a;
+  background-color: #002844;
 }
 @media only screen and (max-width: 991px) {
   .footer-center-wrap {
@@ -10598,7 +10596,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   transition: all 0.3s ease-out;
 }
 .footer-center-wrap .footer-social ul li a:hover {
-  color: #002855;
+  color: silver;
 }
 .footer-center-wrap .newsletter-title {
   height: 100%;
@@ -10697,7 +10695,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   outline: none;
 }
 .footer-center-wrap .newsletter-form .stylish-input-group .input-group-addon:hover {
-  background-color: #2055e4 !important;
+  background-color: silver !important;
 }
 .footer-center-wrap .newsletter-form .stylish-input-group input.form-control::-webkit-input-placeholder,
 .footer-center-wrap .newsletter-form .stylish-input-group textarea.form-control::-webkit-input-placeholder {
@@ -10720,7 +10718,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   font-size: 16px;
 }
 .footer-bottom-wrap {
-  background-color: #1f1f1f;
+  background-color: #002855;
   min-height: 70px;
   display: -webkit-box;
   display: -moz-box;
@@ -10743,7 +10741,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   transition: all 0.3s ease-out;
 }
 .footer-bottom-wrap .copyright a:hover {
-  color: #002855;
+  color: silver;
 }
 /*=======================================================================
 [28] Preloader Style

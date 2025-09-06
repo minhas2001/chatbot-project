@@ -8,8 +8,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="item-content-inner content-light">
                                 <h2 class="item-title">Choose the best for your health</h2>
-                                <p>Dwisi enim ad minim veniam, quis laore nostrud exerci tation ulm hedi corper
-                                    turet suscipit lobortis.</p>
+                                <p>Make smart choices every day to stay active, eat well, and keep your mind and body
+                                    strong.</p>
                                 <ul class="list-item">
                                     <li>Free Consultation</li>
                                     <li>Quality Doctors</li>
@@ -51,7 +51,7 @@
                                         </div>
                                     </div>
                                     <div class="progress">
-                                        <div class="lead">Experience</div>
+                                        <div class="lead">Security</div>
                                         <div
                                             style="width: 95%; visibility: visible; animation-duration: 1.5s; animation-delay: 0.6s;"
                                             data-progress="85%"

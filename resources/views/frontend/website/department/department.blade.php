@@ -25,29 +25,29 @@
              data-r-extra-large-dots="false">
 
             <div class="departments-box-layout2">
-                <span class="departments-sl">02.</span>
+                <span class="departments-sl">01.</span>
                 <div class="item-icon"><i class="flaticon-pills"></i></div>
                 <h3 class="item-title"><a href="#"> General Medicine</a></h3>
-                <p style="height: 180px; overflow: hidden">CareWave supports primary care by providing patients with a
+                <p style="height: 190px; overflow: hidden">CareWave supports primary care by providing patients with a
                     quick first contact, resolving common questions, and offering initial digital triage that guides
                     urgency and the need for an appointment, reducing overload in clinics.
                 </p>
                 <a class="item-btn " href="#">READ MORE<i class="fas fa-arrow-right" style="color: white"></i></a>
             </div>
             <div class="departments-box-layout2">
-                <span class="departments-sl">03.</span>
+                <span class="departments-sl">02.</span>
                 <div class="item-icon"><i class="flaticon-medical-5"></i></div>
                 <h3 class="item-title"><a href="#">Cardeology</a></h3>
-                <p style="height: 180px; overflow: hidden">Our platform helps monitor patients with hypertension and
+                <p style="height: 190px; overflow: hidden">Our platform helps monitor patients with hypertension and
                     other cardiovascular risk factors, reminding them of regular check-ups, detecting early alerts, and
                     improving adherence to treatments.</p>
                 <a class="item-btn " href="#">READ MORE<i class="fas fa-arrow-right" style="color: white"></i></a>
             </div>
             <div class="departments-box-layout2">
-                <span class="departments-sl">04.</span>
+                <span class="departments-sl">03.</span>
                 <div class="item-icon"><i class="flaticon-human-hip"></i></div>
                 <h3 class="item-title"><a href="#">Endocrinology </a></h3>
-                <p style="height: 180px; overflow: hidden">The virtual assistant enables the recording and monitoring of
+                <p style="height: 190px; overflow: hidden">The virtual assistant enables the recording and monitoring of
                     glucose levels and health habits, supporting both diabetic patients and those with metabolic
                     problems. This improves prevention, disease control, and patient quality of life.
                 </p>
@@ -57,7 +57,7 @@
                 <span class="departments-sl">04.</span>
                 <div class="item-icon"><i class="flaticon-human-hip"></i></div>
                 <h3 class="item-title"><a href="#">Pulmonology </a></h3>
-                <p style="height: 180px; overflow: hidden">CareWave assists patients with asthma, COPD, and mild
+                <p style="height: 190px; overflow: hidden">CareWave assists patients with asthma, COPD, and mild
                     respiratory symptoms by providing initial guidance, monitoring key parameters, and detecting
                     complications early, allowing timely medical intervention.
                 </p>
