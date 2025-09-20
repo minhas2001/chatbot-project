@@ -1,5 +1,5 @@
  <!-- Banner Area Start Here -->
- <section class="banner-wrap-layout1 parallaxie" data-bg-image="{{asset('frontend/img/figure/figure6.jpg')}}">
+ <section class="banner-wrap-layout1 parallaxie" data-bg-image="{{asset('frontend/img/figure/figure12.jpg')}}">
     <div class="container">
         <div class="row">
             <div class="col-xl-5 col-lg-8 col-md-10 col-12">

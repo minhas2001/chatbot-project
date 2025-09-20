@@ -59,7 +59,7 @@
 
             <div class="team-box-layout2 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="item-img">
-                    <img src="{{ asset('frontend/img/team/team33.png') }}" alt="Team1"
+                    <img src="{{ asset('frontend/img/team/brain.jpg') }}" alt="Team1"
                          class="img-fluid rounded-circle">
                 </div>
                 <div class="item-content">
@@ -83,7 +83,7 @@
 
             <div class="team-box-layout2 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="item-img">
-                    <img src="{{ asset('frontend/img/team/team36.png') }}" alt="Team1"
+                    <img src="{{ asset('frontend/img/team/paula.jpg') }}" alt="Team1"
                          class="img-fluid rounded-circle">
                 </div>
                 <div class="item-content">
@@ -108,7 +108,7 @@
 
             <div class="team-box-layout2 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="item-img">
-                    <img src="{{ asset('frontend/img/team/team34.png') }}" alt="Team1"
+                    <img src="{{ asset('frontend/img/team/jayshkumar.jpg') }}" alt="Team1"
                          class="img-fluid rounded-circle">
                 </div>
                 <div class="item-content">

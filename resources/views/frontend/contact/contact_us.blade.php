@@ -71,9 +71,9 @@
                         <h3 class="title title-bar-primary4">Address</h3>
                         <div class="contact-info">
                             <ul>
-                                <li><i class="fas fa-map-marker-alt"></i>SHCMS | GB</li>
-                                <li><i class="far fa-envelope"></i>shcms@.com</li>
-                                <li><i class="fas fa-phone"></i>(+923) 16 8537631</li>
+                                <li><i class="fas fa-map-marker-alt"></i>CareWaveHealth</li>
+                                <li><i class="far fa-envelope"></i>contact@carewavehealth.com </li>
+                                <li><i class="fas fa-phone"></i>+34632347630</li>
                             </ul>
                         </div>
                     </div>

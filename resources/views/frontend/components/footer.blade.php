@@ -68,7 +68,7 @@
                         </div>
                         <div class="footer-contact-info">
                             <ul>
-                                <li><i class="fas fa-map-marker-alt"></i>Danyore Main Chowk Gilgit</li>
+                     
                                 <li><i class="fas fa-phone"></i>
                                     +34632347630
                                 </li>
@@ -164,7 +164,7 @@
     <section class="footer-bottom-wrap">
         <div class="copyright">
             Copyright @ 2018 CareWaveHealth. All Rights Reserved.
-            <a target="_blank" href="https://www.sata.pk/" rel="nofollow"> sata.pk </a>
+            
         </div>
     </section>
 </footer>

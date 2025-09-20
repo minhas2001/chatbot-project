@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="item-inner-wrapper">
-            <img src="{{asset('frontend/img/figure/figure8.jpg')}}" class="img-responsive" alt="figure">
+            <img src="{{asset('frontend/img/figure/figure81.jpg')}}" class="img-responsive" alt="figure">
         </div>
     </div>
     <div class="features-box-layout1 d-lg-flex flex-lg-row-reverse">
@@ -76,7 +76,7 @@
             </div>
         </div>
         <div class="item-inner-wrapper">
-            <img src="{{ asset('frontend/img/figure/figure9.jpg') }}" class="img-responsive" alt="figure">
+            <img src="{{ asset('frontend/img/figure/figure91.jpg') }}" class="img-responsive" alt="figure">
         </div>
     </div>
 </section>

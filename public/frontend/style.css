@@ -3085,6 +3085,7 @@ ul {
 }
 .about-box-layout1 .item-content {
   margin-bottom: 10rem;
+
 }
 @media only screen and (max-width: 1199px) {
   .about-box-layout1 .item-content {
@@ -4252,7 +4253,7 @@ div ~ :last-child .call-to-action-box-layout5 {
   -o-border-radius: 50%;
   border-radius: 50%;
   justify-self: center;
-  max-width: 150px;
+  width: 100px;
     height: 100px !important;
 
 }
@@ -4299,6 +4300,7 @@ div ~ :last-child .call-to-action-box-layout5 {
 .team-box-layout2 .item-content {
   text-align: center;
     margin-bottom: 5px;
+    padding: 5px 0 0 0;
 }
 .team-box-layout2 .item-content .item-title {
   text-transform: capitalize;
@@ -6494,7 +6496,6 @@ div ~ :last-child .call-to-action-box-layout5 {
   margin-bottom: 5rem;
   padding: 10px 35px;
     height: 430px !important;
-
   position: relative;
     border-radius: 25px;
   -webkit-box-shadow: 0px 1px 0px 0px rgba(227, 227, 227, 0.75);
@@ -10719,7 +10720,7 @@ div ~ :last-child .call-to-action-box-layout5 {
 }
 .footer-bottom-wrap {
   background-color: #002855;
-  min-height: 70px;
+  min-height: 50px;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;

@@ -12,7 +12,7 @@
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
                         <div class="slider-big-text padding-right">We Take Care Of Your Healthy Health</div>
-                        <p class="slider-paragraph padding-right">"Your Wellness, Our Mission – Trusted Healthcare Solutions!</p>
+                        <p class="slider-paragraph padding-right" style="color: black">"Your Wellness, Our Mission – Trusted Healthcare Solutions!</p>
                         <div class="slider-btn-area">
                             <a href="#" class="item-btn" style="background-color: #002855;">Read More<i class="fas fa-chevron-right"></i></a>
                         </div>
