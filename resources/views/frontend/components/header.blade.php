@@ -44,27 +44,28 @@
                                 <li>
                                     <a href="{{ route('contact') }}">Contact</a>
                                 </li>
+
                             </ul>
                         </nav>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-3">
-                    <div class="header-action-items-layout1">
-                        <ul>
-                            <li class="d-none d-xl-block">
-                                <form id="top-search-form" class="header-search-dark">
-                                    <input type="text" class="search-input" placeholder="Search...." required="">
-                                    <button class="search-button">
-                                        <i class="flaticon-search"></i>
-                                    </button>
-                                </form>
-                            </li>
-                            <li>
-                               <a href="#" class="action-items-primary-btn ">Log in<i class="fas fa-chevron-right"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+{{--                <div class="col-lg-3 col-md-3">--}}
+{{--                    <div class="header-action-items-layout1">--}}
+{{--                        <ul>--}}
+{{--                            <li class="d-none d-xl-block">--}}
+{{--                                <form id="top-search-form" class="header-search-dark">--}}
+{{--                                    <input type="text" class="search-input" placeholder="Search...." required="">--}}
+{{--                                    <button class="search-button">--}}
+{{--                                        <i class="flaticon-search"></i>--}}
+{{--                                    </button>--}}
+{{--                                </form>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                               <a href="#" class="action-items-primary-btn ">Log in<i class="fas fa-chevron-right"></i></a>--}}
+{{--                            </li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>

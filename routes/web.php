@@ -8,3 +8,7 @@ Route::get('/', function () {
 route::get('/contact', function () {
     return view('frontend.contact.contact_us');
 })->name('contact');
+
+route::get('/privacy-details', function () {
+    return view('frontend.website.privacy-policy.privacy_details');
+})->name('privacy');

@@ -16,6 +16,8 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/normalize.css') }}">
     <!-- Main CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/css/main.css') }}">
+    <!-- chatbot CSS -->
+    <link rel="stylesheet" href="{{ asset('frontend/css/chatbot.css') }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap.min.css') }}">
     <!-- Animate CSS -->
@@ -38,7 +40,7 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/elements.css') }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/style.css') }}">
-    
+
 </head>
 <body>
     @yield('website')

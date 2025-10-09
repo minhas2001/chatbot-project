@@ -1,7 +1,8 @@
 @extends('frontend.layouts.app')
 @section('website')
 
-    @include('frontend.components.chatbot')
+    @include('frontend.website.privacy-policy.privacy')
+    @include('frontend.website.chat-bot.chatbot')
     @include('frontend.components.loader')
     @include('frontend.components.header')
     @include('frontend.website.slider.slider')
