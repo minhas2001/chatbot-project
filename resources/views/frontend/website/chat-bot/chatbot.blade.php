@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chatbot Modal</title>
-
 </head>
 <body>
+
 <div id="wrapper" class="wrapper">
-    <a class="chat-bot" onclick="openModal()">
-        <img src="{{asset('frontend/img/chatbot3.png')}}" alt="Chatbot">
+    <a class="chat-bot" onclick="handleChatOpen()">
+        <img src="{{ asset('frontend/img/chatbot3.png') }}" alt="Chatbot">
     </a>
 </div>
 
@@ -30,11 +30,23 @@
     </div>
 </div>
 
+<!-- ✅ Include Privacy Modal -->
+@include('frontend.website.privacy-policy.privacy')
+
 <script>
-    // Get modalChat element
+    // Get modal elements
     const modalChat = document.getElementById('chatModal');
     const chatBody = document.getElementById('chatBody');
     const userInput = document.getElementById('userInput');
+
+    // Open Chat — only after privacy accepted
+    function handleChatOpen() {
+        if (!sessionStorage.getItem('privacyPolicyAccepted')) {
+            showPrivacyModal(openModal);
+        } else {
+            openModal();
+        }
+    }
 
     // Open modalChat
     function openModal() {
@@ -103,8 +115,6 @@
         }
     };
 </script>
+
 </body>
 </html>
-
-
-
